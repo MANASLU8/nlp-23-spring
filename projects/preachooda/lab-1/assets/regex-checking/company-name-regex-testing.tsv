@@ -1,0 +1,2 @@
+example	expected
+"компании с сокращениями - Google inc. ; General Motors Corp. ; Halliburton Co. ; Louisiana-Pacific Corp. ;;; Evil Corp. Haha hihi. not a company at all"	"Google inc.;General Motors Corp.;Halliburton Co.;Louisiana-Pacific Corp.;Evil Corp."
