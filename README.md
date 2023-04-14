@@ -24,4 +24,5 @@
 | Project name | Student name |
 | --- | --- |
 | [emoji-labeller](/projects/emoji-labeller) | Иванов Иван Иванович |
+| [preachooda](/projects/preachooda) | Окладников Константин Константинович |
 

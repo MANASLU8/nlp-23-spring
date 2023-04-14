@@ -1,0 +1,2 @@
+example	expected
+"дата - Aug. 17 ; Aug 17 ; Jan. 2000 ; 5-Feb-2019 ; 05/02/2019 ; 05-02-19 ; 05.02.2019 ;  5 Feb 2019 ; 5 Feb. 19 ; 5 February 19 ; Feb. 1, 2003 Feb Feb  99 Jun 319453"	" Aug. 17; Aug 17; Jan. 2000;5-Feb-2019;05/02/2019;05-02-19;05.02.2019;5 Feb 2019;5 Feb. 19;5 February 19; Feb. 1;99 Jun 3194"

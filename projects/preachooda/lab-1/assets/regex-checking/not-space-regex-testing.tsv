@@ -1,0 +1,3 @@
+example	expected
+"matches the ---previous??? token between; one: and unlimited times, as many times as possible, giving... back as needed (greedy)
+A-z matches a single character! in? the range between A (index 65) and z (index 122);:.!;..:..?..!. (case sensitive)"	"matches;the;previous;token;between;one;and;unlimited;times,;as;many;times;as;possible,;giving;back;as;needed;(greedy);A;z;matches;a;single;character;in;the;range;between;A;(index;65);and;z;(index;122);(case;sensitive)"
